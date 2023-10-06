@@ -1,0 +1,7 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Brush x:Key="backHeader_Footer">#FF2B2D31</Brush>
+    <Brush x:Key="backContent">#FF313338</Brush>
+    <Brush x:Key="buttonBrush">#248046</Brush>
+    <FontFamily x:Key="fontFamily">248046</FontFamily>
+</ResourceDictionary>

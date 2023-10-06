@@ -1,0 +1,51 @@
+D:\Project\C шарп\Libraries\SmokingDuck\bin\Debug\net6.0-windows\SmokingDuck.deps.json
+D:\Project\C шарп\Libraries\SmokingDuck\bin\Debug\net6.0-windows\SmokingDuck.dll
+D:\Project\C шарп\Libraries\SmokingDuck\bin\Debug\net6.0-windows\SmokingDuck.pdb
+D:\Project\C шарп\Libraries\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.csproj.AssemblyReference.cache
+D:\Project\C шарп\Libraries\SmokingDuck\obj\Debug\net6.0-windows\UserControl1.g.cs
+D:\Project\C шарп\Libraries\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck_MarkupCompile.cache
+D:\Project\C шарп\Libraries\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck_MarkupCompile.lref
+D:\Project\C шарп\Libraries\SmokingDuck\obj\Debug\net6.0-windows\UserControl1.baml
+D:\Project\C шарп\Libraries\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.g.resources
+D:\Project\C шарп\Libraries\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\C шарп\Libraries\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.AssemblyInfoInputs.cache
+D:\Project\C шарп\Libraries\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.AssemblyInfo.cs
+D:\Project\C шарп\Libraries\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.csproj.CoreCompileInputs.cache
+D:\Project\C шарп\Libraries\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.dll
+D:\Project\C шарп\Libraries\SmokingDuck\obj\Debug\net6.0-windows\refint\SmokingDuck.dll
+D:\Project\C шарп\Libraries\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.pdb
+D:\Project\C шарп\Libraries\SmokingDuck\obj\Debug\net6.0-windows\ref\SmokingDuck.dll
+D:\Project\C шарп\2-й семестр\prl--9\SmokingDuck\bin\Debug\net6.0-windows\SmokingDuck.deps.json
+D:\Project\C шарп\2-й семестр\prl--9\SmokingDuck\bin\Debug\net6.0-windows\SmokingDuck.dll
+D:\Project\C шарп\2-й семестр\prl--9\SmokingDuck\bin\Debug\net6.0-windows\SmokingDuck.pdb
+D:\Project\C шарп\2-й семестр\prl--9\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.csproj.AssemblyReference.cache
+D:\Project\C шарп\2-й семестр\prl--9\SmokingDuck\obj\Debug\net6.0-windows\UserControl1.g.cs
+D:\Project\C шарп\2-й семестр\prl--9\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck_MarkupCompile.cache
+D:\Project\C шарп\2-й семестр\prl--9\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck_MarkupCompile.lref
+D:\Project\C шарп\2-й семестр\prl--9\SmokingDuck\obj\Debug\net6.0-windows\UserControl1.baml
+D:\Project\C шарп\2-й семестр\prl--9\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.g.resources
+D:\Project\C шарп\2-й семестр\prl--9\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\C шарп\2-й семестр\prl--9\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.AssemblyInfoInputs.cache
+D:\Project\C шарп\2-й семестр\prl--9\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.AssemblyInfo.cs
+D:\Project\C шарп\2-й семестр\prl--9\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.csproj.CoreCompileInputs.cache
+D:\Project\C шарп\2-й семестр\prl--9\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.dll
+D:\Project\C шарп\2-й семестр\prl--9\SmokingDuck\obj\Debug\net6.0-windows\refint\SmokingDuck.dll
+D:\Project\C шарп\2-й семестр\prl--9\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.pdb
+D:\Project\C шарп\2-й семестр\prl--9\SmokingDuck\obj\Debug\net6.0-windows\ref\SmokingDuck.dll
+D:\Project\c шарп\19-я практическая\SmokingDuck\bin\Debug\net6.0-windows\SmokingDuck.deps.json
+D:\Project\c шарп\19-я практическая\SmokingDuck\bin\Debug\net6.0-windows\SmokingDuck.dll
+D:\Project\c шарп\19-я практическая\SmokingDuck\bin\Debug\net6.0-windows\SmokingDuck.pdb
+D:\Project\c шарп\19-я практическая\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.csproj.AssemblyReference.cache
+D:\Project\c шарп\19-я практическая\SmokingDuck\obj\Debug\net6.0-windows\UserControl1.g.cs
+D:\Project\c шарп\19-я практическая\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck_MarkupCompile.cache
+D:\Project\c шарп\19-я практическая\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck_MarkupCompile.lref
+D:\Project\c шарп\19-я практическая\SmokingDuck\obj\Debug\net6.0-windows\UserControl1.baml
+D:\Project\c шарп\19-я практическая\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.g.resources
+D:\Project\c шарп\19-я практическая\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\c шарп\19-я практическая\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.AssemblyInfoInputs.cache
+D:\Project\c шарп\19-я практическая\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.AssemblyInfo.cs
+D:\Project\c шарп\19-я практическая\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.csproj.CoreCompileInputs.cache
+D:\Project\c шарп\19-я практическая\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.dll
+D:\Project\c шарп\19-я практическая\SmokingDuck\obj\Debug\net6.0-windows\refint\SmokingDuck.dll
+D:\Project\c шарп\19-я практическая\SmokingDuck\obj\Debug\net6.0-windows\SmokingDuck.pdb
+D:\Project\c шарп\19-я практическая\SmokingDuck\obj\Debug\net6.0-windows\ref\SmokingDuck.dll

@@ -1,0 +1,64 @@
+D:\Project\C шарп\2-й семестр\prl--7\Themes\bin\Debug\net6.0-windows\Themes.deps.json
+D:\Project\C шарп\2-й семестр\prl--7\Themes\bin\Debug\net6.0-windows\Themes.dll
+D:\Project\C шарп\2-й семестр\prl--7\Themes\bin\Debug\net6.0-windows\Themes.pdb
+D:\Project\C шарп\2-й семестр\prl--7\Themes\obj\Debug\net6.0-windows\Themes.csproj.AssemblyReference.cache
+D:\Project\C шарп\2-й семестр\prl--7\Themes\obj\Debug\net6.0-windows\fullThemes.baml
+D:\Project\C шарп\2-й семестр\prl--7\Themes\obj\Debug\net6.0-windows\Themes\darkTheme.baml
+D:\Project\C шарп\2-й семестр\prl--7\Themes\obj\Debug\net6.0-windows\Themes_MarkupCompile.cache
+D:\Project\C шарп\2-й семестр\prl--7\Themes\obj\Debug\net6.0-windows\Themes.g.resources
+D:\Project\C шарп\2-й семестр\prl--7\Themes\obj\Debug\net6.0-windows\Themes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\C шарп\2-й семестр\prl--7\Themes\obj\Debug\net6.0-windows\Themes.AssemblyInfoInputs.cache
+D:\Project\C шарп\2-й семестр\prl--7\Themes\obj\Debug\net6.0-windows\Themes.AssemblyInfo.cs
+D:\Project\C шарп\2-й семестр\prl--7\Themes\obj\Debug\net6.0-windows\Themes.csproj.CoreCompileInputs.cache
+D:\Project\C шарп\2-й семестр\prl--7\Themes\obj\Debug\net6.0-windows\Themes.dll
+D:\Project\C шарп\2-й семестр\prl--7\Themes\obj\Debug\net6.0-windows\refint\Themes.dll
+D:\Project\C шарп\2-й семестр\prl--7\Themes\obj\Debug\net6.0-windows\Themes.pdb
+D:\Project\C шарп\2-й семестр\prl--7\Themes\obj\Debug\net6.0-windows\ref\Themes.dll
+D:\Project\C шарп\Libraries\Themes\bin\Debug\net6.0-windows\Themes.deps.json
+D:\Project\C шарп\Libraries\Themes\bin\Debug\net6.0-windows\Themes.dll
+D:\Project\C шарп\Libraries\Themes\bin\Debug\net6.0-windows\Themes.pdb
+D:\Project\C шарп\Libraries\Themes\obj\Debug\net6.0-windows\Themes.csproj.AssemblyReference.cache
+D:\Project\C шарп\Libraries\Themes\obj\Debug\net6.0-windows\fullThemes.baml
+D:\Project\C шарп\Libraries\Themes\obj\Debug\net6.0-windows\Themes\darkTheme.baml
+D:\Project\C шарп\Libraries\Themes\obj\Debug\net6.0-windows\Themes_MarkupCompile.cache
+D:\Project\C шарп\Libraries\Themes\obj\Debug\net6.0-windows\Themes.g.resources
+D:\Project\C шарп\Libraries\Themes\obj\Debug\net6.0-windows\Themes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\C шарп\Libraries\Themes\obj\Debug\net6.0-windows\Themes.AssemblyInfoInputs.cache
+D:\Project\C шарп\Libraries\Themes\obj\Debug\net6.0-windows\Themes.AssemblyInfo.cs
+D:\Project\C шарп\Libraries\Themes\obj\Debug\net6.0-windows\Themes.csproj.CoreCompileInputs.cache
+D:\Project\C шарп\Libraries\Themes\obj\Debug\net6.0-windows\Themes.dll
+D:\Project\C шарп\Libraries\Themes\obj\Debug\net6.0-windows\refint\Themes.dll
+D:\Project\C шарп\Libraries\Themes\obj\Debug\net6.0-windows\Themes.pdb
+D:\Project\C шарп\Libraries\Themes\obj\Debug\net6.0-windows\ref\Themes.dll
+D:\Project\C шарп\2-й семестр\prl--9\Themes\bin\Debug\net6.0-windows\Themes.deps.json
+D:\Project\C шарп\2-й семестр\prl--9\Themes\bin\Debug\net6.0-windows\Themes.dll
+D:\Project\C шарп\2-й семестр\prl--9\Themes\bin\Debug\net6.0-windows\Themes.pdb
+D:\Project\C шарп\2-й семестр\prl--9\Themes\obj\Debug\net6.0-windows\Themes.csproj.AssemblyReference.cache
+D:\Project\C шарп\2-й семестр\prl--9\Themes\obj\Debug\net6.0-windows\fullThemes.baml
+D:\Project\C шарп\2-й семестр\prl--9\Themes\obj\Debug\net6.0-windows\Themes\darkTheme.baml
+D:\Project\C шарп\2-й семестр\prl--9\Themes\obj\Debug\net6.0-windows\Themes_MarkupCompile.cache
+D:\Project\C шарп\2-й семестр\prl--9\Themes\obj\Debug\net6.0-windows\Themes.g.resources
+D:\Project\C шарп\2-й семестр\prl--9\Themes\obj\Debug\net6.0-windows\Themes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\C шарп\2-й семестр\prl--9\Themes\obj\Debug\net6.0-windows\Themes.AssemblyInfoInputs.cache
+D:\Project\C шарп\2-й семестр\prl--9\Themes\obj\Debug\net6.0-windows\Themes.AssemblyInfo.cs
+D:\Project\C шарп\2-й семестр\prl--9\Themes\obj\Debug\net6.0-windows\Themes.csproj.CoreCompileInputs.cache
+D:\Project\C шарп\2-й семестр\prl--9\Themes\obj\Debug\net6.0-windows\Themes.dll
+D:\Project\C шарп\2-й семестр\prl--9\Themes\obj\Debug\net6.0-windows\refint\Themes.dll
+D:\Project\C шарп\2-й семестр\prl--9\Themes\obj\Debug\net6.0-windows\Themes.pdb
+D:\Project\C шарп\2-й семестр\prl--9\Themes\obj\Debug\net6.0-windows\ref\Themes.dll
+D:\Project\c шарп\19-я практическая\Themes\bin\Debug\net6.0-windows\Themes.deps.json
+D:\Project\c шарп\19-я практическая\Themes\bin\Debug\net6.0-windows\Themes.dll
+D:\Project\c шарп\19-я практическая\Themes\bin\Debug\net6.0-windows\Themes.pdb
+D:\Project\c шарп\19-я практическая\Themes\obj\Debug\net6.0-windows\Themes.csproj.AssemblyReference.cache
+D:\Project\c шарп\19-я практическая\Themes\obj\Debug\net6.0-windows\fullThemes.baml
+D:\Project\c шарп\19-я практическая\Themes\obj\Debug\net6.0-windows\Themes\darkTheme.baml
+D:\Project\c шарп\19-я практическая\Themes\obj\Debug\net6.0-windows\Themes_MarkupCompile.cache
+D:\Project\c шарп\19-я практическая\Themes\obj\Debug\net6.0-windows\Themes.g.resources
+D:\Project\c шарп\19-я практическая\Themes\obj\Debug\net6.0-windows\Themes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\c шарп\19-я практическая\Themes\obj\Debug\net6.0-windows\Themes.AssemblyInfoInputs.cache
+D:\Project\c шарп\19-я практическая\Themes\obj\Debug\net6.0-windows\Themes.AssemblyInfo.cs
+D:\Project\c шарп\19-я практическая\Themes\obj\Debug\net6.0-windows\Themes.csproj.CoreCompileInputs.cache
+D:\Project\c шарп\19-я практическая\Themes\obj\Debug\net6.0-windows\Themes.dll
+D:\Project\c шарп\19-я практическая\Themes\obj\Debug\net6.0-windows\refint\Themes.dll
+D:\Project\c шарп\19-я практическая\Themes\obj\Debug\net6.0-windows\Themes.pdb
+D:\Project\c шарп\19-я практическая\Themes\obj\Debug\net6.0-windows\ref\Themes.dll

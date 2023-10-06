@@ -1,0 +1,20 @@
+﻿WpfApp1
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\Project\C шарп\2-й семестр\prl--9\WpfApp1\obj\Debug\net6.0-windows\
+WpfApp1
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+D:\Project\C шарп\2-й семестр\prl--9\WpfApp1\App.xaml
+7-813664683
+
+26-1141157731
+2021320451315
+View\AuthorizationView.xaml;View\Component\bindablePasswordBox.xaml;View\ListMessagesView.xaml;View\MainEmailView.xaml;View\MainWindow.xaml;View\MessageView.xaml;View\WriteMessageView.xaml;
+
+True
+
